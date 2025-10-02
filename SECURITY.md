@@ -2,7 +2,7 @@
 
 ## 📌 Supported Versions
 
-We aim to keep `CodeGraphContext` up to date and secure. Please see below for the versions we currently support with security updates.
+We aim to keep `CodeGraphContext` up to date and secured. Please see below for the versions we currently support with security updates.
 
 | Version | Supported          |
 |---------|--------------------|
